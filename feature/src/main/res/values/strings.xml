@@ -1,0 +1,4 @@
+<resources>
+    <!--Error messages -->
+    <string name="no_internet">You are not connected to the internet. Please check your internet connection.</string>
+</resources>
